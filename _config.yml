@@ -30,6 +30,11 @@ googlescholar_username:  0UCBId0AAAAJ&hl
 semanticscholar_username:  Ekagra-Ranjan/1420122675
 stackoverflow_username: 27916/user1825567
 
+# Navigation Bar setup and ordering
+header_pages:
+  - blog.markdown
+  - index.markdown
+
 # Build settings
 theme: minima
 plugins:
