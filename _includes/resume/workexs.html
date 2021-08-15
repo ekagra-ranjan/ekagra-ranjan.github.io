@@ -1,0 +1,31 @@
+<div class="resume-section-title">Work Experience</div>
+
+<div class="container">
+
+  {%- for workex in site.data.resume.workexs -%}
+  <div class="row mt-5">
+    <div class="col-3">
+      <img class="w-100 resume-item-image" src="{{workex.image}}" alt="image not loaded"> 
+    </div>
+    
+    <div class="col">
+      <div class="resume-item-title">{{workex.designation}}</div>
+      <div class="resume-item-org">{{workex.organization}}</div>
+      <div class="resume-item-date">{{workex.date}}</div>
+
+      <p>
+      {%- for item in workex.description -%}
+        {{item.text}}
+        {%-if item.link-%}
+          {%-for link in item.link-%}
+            <a href="{{link.link_url}}">{{link.link_text}}</a>
+          {%-endfor-%}
+        {%-endif-%}
+        <br>
+      {%- endfor -%}
+    </p>
+    </div>
+  </div>
+
+  {% endfor %}
+</div>

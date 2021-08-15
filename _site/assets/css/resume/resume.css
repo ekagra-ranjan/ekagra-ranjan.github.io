@@ -1,0 +1,55 @@
+.resume-section-title{
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    /* font-weight: bold; */
+}
+
+.venue{
+    /* font-size: 15px; */
+    color: rgb(153, 1, 1);
+}   
+
+.resume-item-title{
+    font-size: large;
+    color: black;
+    font-weight: bold;
+}
+
+.resume-item-authors{
+    color: rgb(75, 74, 74);
+}
+
+.thisAuthor{
+    color: black;
+    /* font-weight: bold; */
+}
+
+.highlight{
+    color: rgb(153, 1, 1);
+}
+
+.resume-item-org{
+    color: rgb(153, 1, 1);
+}
+
+.resume-item-date{
+
+    color: rgb(75, 74, 74);
+}
+
+.hr-divider{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.resume-item-img{
+    display: block;
+    margin-left: 200px;
+    margin-right: auto;
+    width: 50%;
+}
+
+.resume-publication-item-image{
+    margin-left: 20px;
+}

@@ -1,0 +1,6 @@
+---Running the jekyll offline:s
+bundle exec jekyll serve --watch
+
+---Tutorial
+https://www.youtube.com/watch?v=1rXBzPiSa5c&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=21
+https://jekyllrb.com/docs/datafiles/

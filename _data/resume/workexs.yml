@@ -1,0 +1,88 @@
+- organization: Microsoft Search Assistance and Intelligence (MSAI)
+  designation: Data Scientist
+  date: Jul 2020 - Present
+  description: 
+    - text: "• Working on Graph Ranking and Graph Search problems.  "
+    - text: "• Improved the relevance of the Zero-Query and Entity-to-Entity recommendation systems by incorporating hand-crafted features over PageRank styled Graph walk algorithms."
+    - text: "• Engineered the creation of task-specific datasets in Spark for benchmarking the relevance."
+  image: 'assets/resume/workexs/images/msft.png'
+
+- organization: Indian Institute of Science (IISc)
+  designation: Research Intern - Deep Learning
+  date: May 2019 - Aug 2019
+  description: 
+    - text: "Advisor: "
+      link:
+      - link_text: "Dr. Partha Talukdar"
+        link_url: "https://talukdar.net/"
+    - text: "• Proposed a hierarchical sparse pooling operator for Graph Neural Nets. It has better edge connectivity in the pooled graph compared to other sparse methods."
+    - text: "• Introduced a new self-attention framework that is better suited for pooling."
+    - text: "• Proposed a new graph convolution operator that can adaptively learn functions of local extremas in a graph substructure."
+  image: 'assets/resume/workexs/images/iisc.png'
+
+- organization: Pytorch Geometric (PyG)
+  designation: Open Source Contributor
+  date: May 2020 - Jul 2019
+  description:
+    - text: "PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch. It is a popular open source library for implementing Graph Neural Networks."
+    - text: "Following are some of my notable contributions to this library:-"
+    - text: "• Added Dense Graph Convolution layer "
+      link:
+      - link_text: "#445"
+        link_url: "https://github.com/rusty1s/pytorch_geometric/pull/445"
+    - text: "• Added Self-Attention Graph pooling "
+      link:
+      - link_text: "#364"
+        link_url: "https://github.com/rusty1s/pytorch_geometric/pull/364"
+    - text: "• Added Edge Weighted GraphConv "
+      link:
+      - link_text: "#489"
+        link_url: "https://github.com/rusty1s/pytorch_geometric/pull/489"
+    - text: "Contributors list: "
+      link:
+      - link_text: "link"
+        link_url: "https://github.com/rusty1s/pytorch_geometric/graphs/contributors"
+  image: 'assets/resume/workexs/images/pyg_logo_text.svg'
+
+- organization: TorchVision (Pytorch)
+  designation: Open Source Contributor
+  date: Jan 2019 - Jul 2019
+  description: 
+    - text: "TorchVision is the computer vision library maintained by the Pytorch team at Facebook."
+    - text: "Some of my notable contributions to this library are:-"
+    - text: "• Added GPU-Memory Efficient Densenet "
+      link:
+      - link_text: "#1003"
+        link_url: "https://github.com/pytorch/vision/pull/1003"
+      - link_text: ", #797"
+        link_url: "https://github.com/pytorch/vision/pull/797"
+    - text: "• Added Affine Transformation "
+      link:
+        - link_text: "#793"
+          link_url: "https://github.com/pytorch/vision/pull/793"
+    - text: "• Refactored Image Segmentation, Detection and Classification models "
+      link:
+        - link_text: "#1009"
+          link_url: "https://github.com/pytorch/vision/pull/1009"
+        - link_text: ", #1091"
+          link_url: "https://github.com/pytorch/vision/pull/1091"
+        - link_text: ", #889"
+          link_url: "https://github.com/pytorch/vision/pull/889"
+    - text: "Contributors list: "
+      link:
+        - link_text: "link"
+          link_url: "https://github.com/pytorch/vision/graphs/contributors "
+  image: 'assets/resume/workexs/images/pytorch-full.png'
+
+- organization: Indian Institute of Technology (IIT) Kharagpur
+  designation: Research Intern - Deep Learning
+  date: May 2018 - Aug 2018
+  description: 
+    - text: "Advisor: "
+      link:
+      - link_text: "Dr. Debdoot Sheet"
+        link_url: "https://scholar.google.com/citations?user=x-0vLSsAAAAJ&hl=en"
+    - text: "• Worked on classification of thoracic diseases on NIH ChestX-Ray14 dataset."
+    - text: "• Proposed a model to reduce the loss of discriminative features which occurs during downsampling large images before feeding to classifiers."
+    - text: "• Achieved state of the art results on the official test set released by NIH."
+  image: 'assets/resume/workexs/images/IITKGP.png'

@@ -1,0 +1,34 @@
+
+{%- assign heading="Publications" -%}
+  <div class="resume-section-title">{{heading}}</div>
+
+  <div class="container">
+
+    {% for publication in site.data.resume.publications %}
+    <div class="row mt-3">
+      <div class="col-3">
+        <img class="w-75 resume-publication-item-image" src="{{publication.image}}" alt="image not loaded"> 
+      </div>
+      
+      <div class="col">
+        <div class="resume-item-title">{{publication.title}}</div>
+        <div class="resume-item-authors">{{publication.authors}}</div>
+        <a href="{{publication.venue_link}}"><span class="venue">{{publication.venue}}</span></a> {{publication.venue_fact}} 
+        
+        {%- if publication.paper -%}
+        | <span><a href="{{publication.paper}}">Paper </a></span>
+        {%- endif -%}
+
+        {%- if publication.slides -%}
+        | <span><a href="{{publication.slides}}">Slides </a></span>
+        {%- endif -%}
+        
+        {%-if publication.code -%}
+        | <span><a href="{{publication.code}}">Code </a></span>
+        {%- endif -%}
+        
+      </div>
+    </div>
+
+    {% endfor %}
+  </div>

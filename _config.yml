@@ -32,7 +32,7 @@ stackoverflow_username: 27916/user1825567
 
 # Navigation Bar setup and ordering
 header_pages:
-  - blog.markdown
+  # - blog.markdown
   - index.markdown
 
 # Build settings

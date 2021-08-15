@@ -1,0 +1,27 @@
+- title: 'ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations'
+  authors: '<span class="thisAuthor">Ekagra Ranjan</span>, Soumya Sanyal, Patha Talukdar'
+  code: 'https://github.com/malllabiisc/ASAP'
+  paper: 'https://arxiv.org/abs/1911.07979'
+  venue: 'AAAI 2020'
+  venue_link: 'https://aaai.org/Conferences/AAAI-20/'
+  image: 'assets/resume/publications/images/asap.png'
+  slides: 'assets/resume/publications/slides/asap_slides.pdf'
+
+- title: 'Joint Learning Mechanism to Compress and Classify Radiological Images'
+  authors: '<span class="thisAuthor">Ekagra Ranjan*</span>, Soumava Paul*, Siddharth Kapoor, Aupendu Kar, R. Sethuraman, Debdoot Sheet'
+  code: 'https://github.com/ekagra-ranjan/AE-CNN'
+  paper: 'https://dl.acm.org/doi/abs/10.1145/3293353.3293408'
+  venue: 'ICVGIP 2018'
+  venue_fact: '(Oral Accept Rate: <10% )'
+  venue_link: 'https://cvit.iiit.ac.in/icvgip18/'
+  image: 'assets/resume/publications/images/ae-cnn.png'
+  slides: 'assets/resume/publications/slides/ae-cnn_slides.pptx'
+
+- title: 'Auto-SCMA: Learning Codebook for Sparse Code Multiple Access using Machine Learning'
+  authors: '<span class="thisAuthor">Ekagra Ranjan*</span>, Ameya Vikram*, A. Rajesh, P.K. Bora'
+  code: 'https://github.com/ekagra-ranjan/Auto-SCMA'
+  # paper:
+  venue: 'NCC 2021'
+  venue_link: 'https://www.iitk.ac.in/ncc2021/index.php'
+  image: 'assets/resume/publications/images/auto-scma.png'
+  # slides:
