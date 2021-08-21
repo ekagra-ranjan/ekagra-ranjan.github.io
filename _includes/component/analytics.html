@@ -1,9 +1,19 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<!-- Global site tag (gtag.js) - Google Analytics Universal - Tracking ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_trackingId }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '{{ site.google_analytics }}');
+  gtag('config', '{{ site.google_analytics_trackingId }}');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics G - Measurement ID-->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_measurementId }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google_analytics_measurementId }}');
 </script>
