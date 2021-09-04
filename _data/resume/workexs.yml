@@ -3,8 +3,8 @@
   date: Jul 2020 - Present
   description: 
     - text: "• Working on Graph Ranking and Graph Search problems.  "
-    - text: "• Improved the relevance of the Zero-Query and Entity-to-Entity recommendation systems, e.g., Meeting to Email."
-    - text: "• Designed, implemented, optimized, and deployed customized PageRank styled Graph walk algorithms."
+    - text: "• Improved the relevance of the Zero-Query and Entity-to-Entity recommendation systems."
+    - text: "• Designed, implemented, and deployed customized PageRank styled Graph walk algorithms."
     - text: "• Engineered the creation of task-specific datasets in Spark for benchmarking the relevance."
   image: 'assets/resume/workexs/images/msft.png'
 
