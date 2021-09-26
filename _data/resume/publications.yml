@@ -12,7 +12,7 @@
   code: 'https://github.com/ekagra-ranjan/AE-CNN'
   paper: 'https://dl.acm.org/doi/abs/10.1145/3293353.3293408'
   venue: 'ICVGIP 2018'
-  venue_fact: '(Oral Accept Rate: <10% )'
+  venue_fact: '(Oral Accept Rate: <10% ) '
   venue_link: 'https://cvit.iiit.ac.in/icvgip18/'
   image: 'assets/resume/publications/images/ae-cnn.png'
   slides: 'assets/resume/publications/slides/ae-cnn_slides.pptx'
@@ -20,8 +20,8 @@
 - title: 'Auto-SCMA: Learning Codebook for Sparse Code Multiple Access using Machine Learning'
   authors: '<span class="thisAuthor">Ekagra Ranjan*</span>, Ameya Vikram*, A. Rajesh, P.K. Bora'
   code: 'https://github.com/ekagra-ranjan/Auto-SCMA'
-  # paper:
+  paper: 'https://ieeexplore.ieee.org/document/9530173?fbclid=IwAR0-bSnIyp5nzRX4MS5fD_GCmRDDyXHZ9o_oiI8sgZQ0ACXeEmKyhpSL2Ck'
   venue: 'NCC 2021'
   venue_link: 'https://www.iitk.ac.in/ncc2021/index.php'
   image: 'assets/resume/publications/images/auto-scma.png'
-  # slides:
+  slides: 'assets/resume/publications/slides/Auto-SCMA-ppt.pptx'
