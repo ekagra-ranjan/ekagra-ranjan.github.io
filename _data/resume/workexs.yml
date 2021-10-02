@@ -4,7 +4,7 @@
   description: 
     - text: "• Working on Recommendation System using Graph Ranking."
     - text: "• Improved the relevance of the Zero-Query and Entity-to-Entity recommendation systems."
-    - text: "• Designed and deployed custom PageRank styled Graph walk algorithms for low latency scenarios."
+    - text: "• Designed and deployed custom PageRank styled Graph walks for low latency scenarios."
     - text: "• Engineered dataset creation without explicit labeled data in an eyes-off and compliant setting."
     - text: "• Developed the core relevance infrastructure for distributed supervised graph learning."
   image: 'assets/resume/workexs/images/msft.png'
