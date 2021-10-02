@@ -2,10 +2,11 @@
   designation: Data Scientist
   date: Jul 2020 - Present
   description: 
-    - text: "• Working on Graph Ranking and Graph Search problems.  "
+    - text: "• Working on Recommendation System using Graph Ranking."
     - text: "• Improved the relevance of the Zero-Query and Entity-to-Entity recommendation systems."
-    - text: "• Designed, implemented, and deployed customized PageRank styled Graph walk algorithms."
-    - text: "• Engineered the creation of task-specific datasets in Spark for benchmarking the relevance."
+    - text: "• Designed and deployed customized PageRank styled Graph walk algorithms for latency critical scenarios."
+    - text: "• Engineered dataset creation without access to explicit user labeled data in an eyes-off and compliant setting."
+    - text: "• Developed the core relevance infrastructure for distributed supervised graph learning."
   image: 'assets/resume/workexs/images/msft.png'
 
 - organization: Indian Institute of Science (IISc)
