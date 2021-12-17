@@ -1,0 +1,12 @@
+# Kaggle
+- title: Sharechat - IndoML
+  description: 2nd Rank on Multilingual Abusive comment identification challenge organized by Sharechat
+  category: kaggle
+
+- title: IndoRE - IndoML
+  description: 2nd Rank on a relation extraction task for three low resource Indian Languages (Bengali, Telugu and Hindi)
+  category: kaggle
+
+- title: Sharechat - IEEE BigMM
+  description: 4th Rank on Indic Multilingual Abusive comment identification challenge organized by Sharechat
+  category: kaggle
