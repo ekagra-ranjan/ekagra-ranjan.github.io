@@ -4,7 +4,7 @@ title: About
 ---
 
 <!-- Bio -->
-I am interested in Machine Learning, especially in the field of Deep Learning. I have experience in Graph ML, Computer Vision, and have started exploring NLP.
+I am interested in Machine Learning, especially in the field of Deep Learning. I have experience in Graph Machine Learning, Computer Vision (CV), and Natural Language Processing (NLP).
 
 During my undergrad days, I published at top-tier conferences of machine learning like AAAI. I have been part of teams that have won multiple national and international competitions. I am also a recipient of various prestigious academic fellowships as well as Microsoft AI for Earth grant. 
 
