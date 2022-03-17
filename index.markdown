@@ -25,7 +25,7 @@ I completed my Bachelors from <a href="https://www.iitg.ac.in/"><span class="hig
 {%- if site.data.resume.config.workexs -%}
 {%- include resume/workexs.html -%}
 {%- endif -%}
-
+ 
 <hr class="hr-divider">
 
 <!-- Achievements -->
