@@ -7,7 +7,7 @@
     - text: "• Designed and deployed custom PageRank styled Graph walks for low latency scenarios."
     - text: "• Engineered dataset creation without explicit labeled data in an eyes-off and compliant setting."
     - text: "• Developing the core relevance infrastructure for distributed supervised graph learning."
-    - text: "• Migrated Spark pipelines to Azure Machine Learning. Added CI/CD pipelines along with tests."
+    - text: "• Migrated Spark pipelines to Azure Machine Learning. Added CI/CD pipelines along with tests." 
   image: 'assets/resume/workexs/images/msft.png'
 
 - organization: Pytorch Geometric (PyG)
