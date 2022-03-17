@@ -10,19 +10,6 @@
     - text: "• Migrated Spark pipelines to Azure Machine Learning. Added CI/CD pipelines along with tests."
   image: 'assets/resume/workexs/images/msft.png'
 
-- organization: Indian Institute of Science (IISc)
-  designation: Research Intern - Deep Learning
-  date: May 2019 - Aug 2019
-  description: 
-    - text: "Advisor: "
-      link:
-      - link_text: "Dr. Partha Talukdar"
-        link_url: "https://talukdar.net/"
-    - text: "• Proposed a hierarchical sparse pooling operator for Graph Neural Nets. It has better edge connectivity in the pooled graph compared to other sparse methods."
-    - text: "• Introduced a new self-attention framework that is better suited for pooling."
-    - text: "• Proposed a new graph convolution operator that can adaptively learn functions of local extremas in a graph substructure."
-  image: 'assets/resume/workexs/images/iisc.png'
-
 - organization: Pytorch Geometric (PyG)
   designation: Open Source Contributor
   date: May 2019 - Jul 2019
@@ -76,6 +63,19 @@
         - link_text: "link"
           link_url: "https://github.com/pytorch/vision/graphs/contributors "
   image: 'assets/resume/workexs/images/pytorch-full.png'
+
+- organization: Indian Institute of Science (IISc)
+  designation: Research Intern - Deep Learning
+  date: May 2019 - Aug 2019
+  description: 
+    - text: "Advisor: "
+      link:
+      - link_text: "Dr. Partha Talukdar"
+        link_url: "https://talukdar.net/"
+    - text: "• Proposed a hierarchical sparse pooling operator for Graph Neural Nets. It has better edge connectivity in the pooled graph compared to other sparse methods."
+    - text: "• Introduced a new self-attention framework that is better suited for pooling."
+    - text: "• Proposed a new graph convolution operator that can adaptively learn functions of local extremas in a graph substructure."
+  image: 'assets/resume/workexs/images/iisc.png'
 
 - organization: Indian Institute of Technology (IIT) Kharagpur
   designation: Research Intern - Deep Learning
