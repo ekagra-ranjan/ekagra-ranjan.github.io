@@ -25,3 +25,12 @@
   venue_link: 'https://www.iitk.ac.in/ncc2021/index.php'
   image: 'assets/resume/publications/images/auto-scma.png'
   slides: 'assets/resume/publications/slides/Auto-SCMA-ppt.pptx'
+  
+- title: 'Multilingual Abusiveness Identification on Code-Mixed Social Media Text'
+  authors: '<span class="thisAuthor">Ekagra Ranjan*</span>, Naman Poddar'
+  code: 'https://ekagra-ranjan.github.io/'
+  paper: 'https://arxiv.org/pdf/2204.01848.pdf'
+  venue: 'Preprint'
+  venue_link: 'https://arxiv.org/pdf/2204.01848.pdf'
+  image: 'assets/resume/publications/images/moj.jpg'
+  slides: 'assets/resume/publications/slides/EAM2021-Computer-Mahashay-public.pptx'
