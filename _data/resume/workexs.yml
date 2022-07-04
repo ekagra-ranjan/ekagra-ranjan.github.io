@@ -21,6 +21,10 @@
       link:
       - link_text: "#445"
         link_url: "https://github.com/rusty1s/pytorch_geometric/pull/445"
+    - text: "• Added ASAP pooling and LEConv layers "
+      link:
+      - link_text: "#1218"
+        link_url: "https://github.com/rusty1s/pytorch_geometric/pull/1218"
     - text: "• Added Self-Attention Graph pooling "
       link:
       - link_text: "#364"
