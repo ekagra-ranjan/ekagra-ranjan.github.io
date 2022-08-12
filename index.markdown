@@ -6,7 +6,7 @@ title: About
 <!-- Bio -->
 I am interested in Machine Learning, especially in the field of Deep Learning. I have experience in Graph Machine Learning, Computer Vision (CV), and Natural Language Processing (NLP).
 
-• During my undergrad days, I published at top-tier conferences of machine learning like AAAI that have garnered over 100 citations <br>
+• During my undergrad days, I published a long paper at AAAI (top-tier ML conference) that has garnered over 100 citations <br>
 • Open source contributor to famous projects like Pytorch Geometric and TorchVision (Pytorch) <br>
 • Recipient of various prestigious academic fellowships as well as Microsoft AI for Earth grant <br>
 • Been part of teams that have won multiple national and international competitions <br>
