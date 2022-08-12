@@ -2,7 +2,7 @@
   designation: Data Scientist
   date: Jul 2020 - Present
   description: 
-    - text: "• Working on Knowledge Graph based Search and Recommendation using Graph Machine Learning."
+    - text: "• Working on Knowledge Graph Search and Recommendation using Graph Machine Learning."
     - text: "• Improved the relevance by 2x."
     - text: "• Designed and deployed custom Message Passing Algorithms in low latency scenarios."
     - text: "• Engineered dataset creation without explicit labeled data in an eyes-off and compliant setting."
