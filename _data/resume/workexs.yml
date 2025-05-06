@@ -5,7 +5,7 @@
     - text: "• Working on Knowledge Graph Search and Recommendation using Graph Machine Learning."
     - text: "• Improved the relevance by 2x."
     - text: "• Designed and deployed custom Message Passing Algorithms in low latency scenarios."
-    - text: "• Engineered dataset creation without explicit labeled data in an eyes-off and compliant setting."
+    - text: "• Engineered dataset creation w/o explicit labeled data in an eyes-off and compliant setting."
     - text: "• Developing the core relevance infrastructure for distributed supervised graph learning."
     - text: "• Migrated Spark pipelines to Azure Machine Learning and added CI/CD pipelines." 
     - text: "• Gave internal talks and wrote blogs for broader audience outside my team." 
